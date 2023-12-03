@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 门昭霖的blog
-### WELCOME TO MY BLOG
------------------------------------------------------
+# 门昭霖的Home
+### WELCOME TO MY HOME PAGE
 *⭐🌙与其仰望星空，不如去做摘星星的人🌙⭐*
 
 -----------------------------------------------------
@@ -29,6 +28,8 @@ Here are some ideas to get you started:
    >Gender:🚹  
    >
    >🎂:2004 Aug 12th
+   >
+   >❤️💞❣️💝 Beloved： ☁️Wanyun ☁️
    >
    >Dream😶‍🌫️:🕵️👨‍🚀👨‍💻🦸‍♂️🧙‍♂️(~~我是个贪心的人~~)
    >
@@ -49,8 +50,8 @@ Email:SWE2209534@xmu.edu.my
 - [x] C/C++  
 - [x] Java   
 - [x] Python 
-- [ ] HTML    
-- [ ] JavaScript  
+- [x] HTML    
+- [x] JavaScript  
 - [ ] Golang
 - [ ] Rust 
   ## Study Plan

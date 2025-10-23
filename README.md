@@ -31,7 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Git Config   2 mins          ████████▓░░░░░░░░░░░░░░░░   34.09 %
+Other        1 min           ███████▒░░░░░░░░░░░░░░░░░   29.07 %
+Text         1 min           ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
+Git          0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->

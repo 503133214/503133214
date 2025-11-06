@@ -31,8 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     14 mins         ████████████████████▒░░░░   81.13 %
-Groovy   3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -31,7 +31,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   2 mins          █████████████████████████   100.00 %
+JSON         12 mins         █████████████▓░░░░░░░░░░░   54.33 %
+Dart         8 mins          █████████▒░░░░░░░░░░░░░░░   36.69 %
+SSH Config   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
 ```
 
 <!--END_SECTION:waka-->

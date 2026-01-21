@@ -31,9 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#         6 mins          ███████████████████░░░░░░   76.16 %
-Markdown   2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.40 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
